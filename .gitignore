@@ -1,5 +1,10 @@
+# JavaScript
 node_modules
+
+# Configuration
 .env
+
+# fly.io
 .dockerignore
 Dockerfile
 fly.toml
