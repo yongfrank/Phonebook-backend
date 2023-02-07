@@ -1,0 +1,22 @@
+DELETE http://localhost:3001/api/persons/63e102cc2fdee29a00f96c48
+
+###
+POST http://localhost:3001/api/persons/
+Content-Type: application/json
+
+{
+    "name": "",
+    "number": "123456"
+}
+
+###
+PUT http://localhost:3001/api/persons/63e0ca04cbdaa809adda2b05
+Content-Type: application/json
+
+{
+    "name": "ok ok ok ",
+    "number": "kfc v me 50 new new new"
+}
+
+###
+GET http://localhost:3001/api/persons/63e102cc2fdee29a00f96c48
