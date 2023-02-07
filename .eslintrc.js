@@ -2,7 +2,7 @@
  * @Author: Frank Chu
  * @Date: 2023-02-07 14:49:34
  * @LastEditors: Frank Chu
- * @LastEditTime: 2023-02-07 15:07:41
+ * @LastEditTime: 2023-02-07 16:53:54
  * @FilePath: /Phonebook-backend/.eslintrc.js
  * @Description: 
  * 
@@ -40,7 +40,6 @@ module.exports = {
 			'never'
 		],
 		'eqeqeq': 'error',
-		'no-trailing-spaces': 'error',
 		'object-curly-spacing': [
 			'error', 'always'
 		],
