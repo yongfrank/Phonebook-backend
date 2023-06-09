@@ -5,8 +5,8 @@ POST http://localhost:3001/api/persons/
 Content-Type: application/json
 
 {
-    "name": "",
-    "number": "123456"
+    "name": "://fullstackopen.com/en/part4/structure_of_backend_application_introduction_to_testing",
+    "number": "123-1234566"
 }
 
 ###
@@ -14,8 +14,8 @@ PUT http://localhost:3001/api/persons/63e0ca04cbdaa809adda2b05
 Content-Type: application/json
 
 {
-    "name": "ok ok ok ",
-    "number": "kfc v me 50 new new new"
+    "name": "ok ok ok 000 test frank",
+    "number": "123-1234566"
 }
 
 ###
